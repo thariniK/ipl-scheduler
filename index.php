@@ -57,7 +57,7 @@
             <form method="post" class="form-horizontal">
                 <div class="form-group">
                     <div class="input-group input-append date">
-                        <input type="text" class="form-control mr-3" id="datepicker" name="date" value="<?php echo $date; ?>"><span class="add-on"><i class="icon-th"></i></span>
+                        <input type="text" class="form-control mr-3" id="datepicker" name="date" value="<?php echo $date; ?>" readonly style="background-color: #ccc;"><span class="add-on"><i class="icon-th"></i></span>
                         <span class="input-group-btn">
                                 <button class="btn btn-default" type="submit">Schedule</button>
                             </span>
