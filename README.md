@@ -13,5 +13,6 @@ which Team A represents and once in the city which Team C represents.
 2. A team cannot play matches on two consecutive days.
 3. Every day only one match can be played, except on weekends (Saturday and
 Sunday) two games can be played.
+
 The program accepts the start day of the tournament and creates a fixture
 table.
