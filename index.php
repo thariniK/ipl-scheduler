@@ -37,7 +37,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>IPL Scheduler</title>
     <meta name="author" content="Tharini">
     <meta name="description" content="IPL Scheduler">
     <meta name="viewport" content="width=device-width, initial-scale=1">
