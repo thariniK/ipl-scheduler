@@ -1,6 +1,6 @@
 # IPL Scheduler
 
-Demo: https://ipl-scheduler.herokuapp.com/
+**Demo**: https://ipl-scheduler.herokuapp.com/
 
 IPL (Indian Premier League) is a popular cricket tournament.
 Total 8 teams participate in the tournament. Let’s say Team A - Team H. Each
